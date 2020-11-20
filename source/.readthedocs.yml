@@ -5,7 +5,7 @@
 version: 2
 
 sphinx:
-  configuration: source/conf.py
+  configuration: conf.py
 
 formats:
   - pdf
